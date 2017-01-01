@@ -1,0 +1,46 @@
+**********************************************************************
+*** ONCE THIS TEXT FILE IS CLOSED, THE NEXT STEP WILL BE LAUNCHED! ***
+**********************************************************************
+
+
+DO NOT CLOSE THIS TEXT FILE UNTIL YOU HAVE SUCCESSFULLY DOWNGRADED!!!
+
+
+Launch "Multi Mod Menu" From Homebrew Channel And Select "WAD Manager".
+
+Press "1" To Select All, And Then Press "A" To Install.
+
+When Finished, Press "B" Twice To Get Back To Main Menu.
+
+Select "App Manager" Folder And Then Select "Priiloader". Launch With "A".
+
+Once Priiloader Has Loaded, Press "+" To Install. Ignore Yellow Errors
+
+After Priiloader Has Finished It Will Look Like It Crashes.
+
+Hold The "Reset" Button Down And Press The Power Button (Do Not Let Go of Reset)
+
+A White Menu Will Appear, You Can Set Options Later.
+
+Return To System Menu.
+
+**You Will Be Downgrading To v4.2 Usa Using Dop-Mii**
+
+Return To Homebrew Channel.
+
+Launch Dop-Mii. Use Ios 249 To Install. Select System Menu. Use v4.2 USA (Default).
+
+Backup Priiloader When Prompted. Select "Download From NUS" As Your Source Option.
+
+All Files From Nus Are Actually Cached On SD Card.
+
+Keep Pressing (A) To Finish Install And Restore Priiloader.
+
+Exit Dop-Mii. You Should Now Be On Stock V4.2 Usa Firmware.
+
+Remove SD Card From The Wii.
+
+
+**********************************************************************
+*** ONCE THIS TEXT FILE IS CLOSED, THE NEXT STEP WILL BE LAUNCHED! ***
+**********************************************************************

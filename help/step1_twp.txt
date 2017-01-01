@@ -1,0 +1,41 @@
+**********************************************************************
+*** ONCE THIS TEXT FILE IS CLOSED, THE NEXT STEP WILL BE LAUNCHED! ***
+**********************************************************************
+
+
+Game/Exploit Loaded: Legend of Zelda: Twilight Princess / Twilight Hack
+
+Wii System Version: 2.0 - 3.4
+
+
+Instructions:
+
+
+01) Copy Game Save From SD Card To Wii Console.
+
+02) Start Game and Load Hacked Game Save.
+
+03) Once loaded, walk backwards or talk to the man standing in front of you.
+
+04) HackMii Installer Loads.
+
+05) Press "1" to continue after several seconds.
+
+06) Install Homebrew Channel.
+
+07) Install BootMii as an IOS (also install as boot2 if available).
+
+08) Exit the HackMii Installer.
+
+09) Press HOME and select "Launch BootMii".
+
+10) On Console, Press POWER 3 Times, Press RESET 2 Times.
+
+11) Your NAND should now be backing up to the SD Card.
+
+12) Insert SD Card back into your computer and close this text file.
+
+
+**********************************************************************
+*** ONCE THIS TEXT FILE IS CLOSED, THE NEXT STEP WILL BE LAUNCHED! ***
+**********************************************************************

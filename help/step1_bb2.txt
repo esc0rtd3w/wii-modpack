@@ -1,0 +1,31 @@
+**********************************************************************
+*** ONCE THIS TEXT FILE IS CLOSED, THE NEXT STEP WILL BE LAUNCHED! ***
+**********************************************************************
+
+
+Game/Exploit Loaded: None (SD Card Menu) / Bannerbomb Version 2
+
+Wii System Version: 4.0 - 4.2
+
+
+Instructions:
+
+
+1) Go to the SD Card Menu on the main System Menu screen
+
+2) A message should appear asking to load "boot.dol/.elf"
+
+3) HackMii Installer Loads
+
+4) Press "1" to continue when HackMii installer loads.
+
+5) Install Homebrew Channel.
+
+6) Install BootMii as boot2 (if available) and IOS.
+
+7) Return to Homebrew Channel. Remove SD Card.
+
+
+**********************************************************************
+*** ONCE THIS TEXT FILE IS CLOSED, THE NEXT STEP WILL BE LAUNCHED! ***
+**********************************************************************

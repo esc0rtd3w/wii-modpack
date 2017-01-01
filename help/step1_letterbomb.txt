@@ -1,0 +1,27 @@
+**********************************************************************
+*** ONCE THIS TEXT FILE IS CLOSED, THE NEXT STEP WILL BE LAUNCHED! ***
+**********************************************************************
+
+
+Game/Exploit Loaded: None (Message Center) / Letterbomb
+
+Wii System Version: 4.3
+
+
+Instructions:
+
+
+1) Insert SD Card Into Wii Console
+
+2) Enter Messages Menu and Select Letterbomb From Previous Day
+
+3) HackMii Installer Loads
+
+4) Install Homebrew Channel and BootMii.
+
+5) Return to Homebrew Channel. Remove SD Card.
+
+
+**********************************************************************
+*** ONCE THIS TEXT FILE IS CLOSED, THE NEXT STEP WILL BE LAUNCHED! ***
+**********************************************************************

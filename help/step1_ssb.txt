@@ -1,0 +1,29 @@
+**********************************************************************
+*** ONCE THIS TEXT FILE IS CLOSED, THE NEXT STEP WILL BE LAUNCHED! ***
+**********************************************************************
+
+
+Game/Exploit Loaded: Super Smash Bros Brawl / Super Smash Stack
+
+Wii System Version: 4.3
+
+
+Instructions:
+
+
+1) Load game with SD Card removed, make a save file if asked
+
+2) Go to the stage builder
+
+3) Delete all custom stages found, exit the stage builder 
+
+4) Exit all the way back to the main SSBB menu
+
+5) Insert SD Card, go back to the stage builder
+
+6) HackMii Installer Loads
+
+
+**********************************************************************
+*** ONCE THIS TEXT FILE IS CLOSED, THE NEXT STEP WILL BE LAUNCHED! ***
+**********************************************************************

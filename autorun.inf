@@ -1,0 +1,10 @@
+[autorun]
+open=autorun.cmd
+icon=autorun.ico
+label=Wii Mod Pack DVD
+
+shell\MainMenu\command=autorun.cmd
+shell\MainMenu=&Load Main Menu
+
+shell\VirtualSDCard\command=virtual_sd_card_menu_only.cmd
+shell\VirtualSDCard=&Virtual SD Card

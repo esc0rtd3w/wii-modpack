@@ -1,0 +1,44 @@
+**********************************************************************
+*** ONCE THIS TEXT FILE IS CLOSED, THE NEXT STEP WILL BE LAUNCHED! ***
+**********************************************************************
+
+Launch "Multi Mod Manager CB2" From Homebrew Channel And Select "WAD Manager".
+
+Press "1" To Select All, And Then Press "A" To Install.
+
+When Finished, Press "B" Twice To Get Back To Main Menu.
+
+Select "App Manager" Folder And Then Select "Priiloader". Launch With "A".
+
+Once Priiloader Has Loaded, Press "+" To Install. Ignore Yellow Errors
+
+After Priiloader Has Finished It Will Look Like It Crashes.
+
+Power Down The Wii By Holding The Power Button For A Few Seconds.
+
+Hold The "Reset" Button Down And Press The Power Button (Do Not Let Go of Reset)
+
+A White Menu Will Appear, You Can Let Go Of The Reset Button Now!
+
+Enable The Following Under "System Menu Hacks":
+
+- Block Disc Updates
+- Block Online Updates
+- Move Disc Channel
+- Region-Free Everything
+
+Return To Homebrew Channel And Install Cios Rev21 Installer.
+
+- Ios 249 For Install, Ios 57 For Base, 249 For Ios Slot, WAD Installation, SD Slot
+
+Return To Homebrew Channel Again And Optionally Install The Following:
+
+- Any Title Deleter Can Be Launched To Remove Unwanted Channels
+- Mymenuify Installer (DarkWii Theme Default) (4.2 Only!!!)
+- Wii Media Center Channel
+
+Remove SD Card From The Wii.
+
+**********************************************************************
+*** ONCE THIS TEXT FILE IS CLOSED, THE NEXT STEP WILL BE LAUNCHED! ***
+**********************************************************************

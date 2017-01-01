@@ -1,0 +1,23 @@
+**********************************************************************
+*** ONCE THIS TEXT FILE IS CLOSED, THE NEXT STEP WILL BE LAUNCHED! ***
+**********************************************************************
+
+
+Game/Exploit Loaded: None (SD Card Menu) / Bannerbomb Version 1
+
+Wii System Version: 3.0 - 4.1
+
+
+Instructions:
+
+
+1) Go into Wii Options - Data Management - Channels - SD Card
+
+2) A message should appear asking to load "boot.dol/.elf"
+
+3) HackMii Installer Loads
+
+
+**********************************************************************
+*** ONCE THIS TEXT FILE IS CLOSED, THE NEXT STEP WILL BE LAUNCHED! ***
+**********************************************************************

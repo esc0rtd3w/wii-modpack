@@ -25,6 +25,9 @@ echo.
 echo Install Boxart (Approx Time: 5 - 20 Minutes) [Y/N]?
 echo.
 echo.
+echo ** SD Card Needs 1.22GB of FREE SPACE Available **
+echo.
+echo.
 echo.
 echo R) Return To Main Menu
 
@@ -76,13 +79,13 @@ echo.
 echo.
 
 
-%unpack% "%boxartsrc%\2d.rar" "%sd%:\%boxartdest%"
-%unpack% "%boxartsrc%\3d.rar" "%sd%:\%boxartdest%"
-%unpack% "%boxartsrc%\disc.rar" "%sd%:\%boxartdest%"
-%unpack% "%boxartsrc%\full.rar" "%sd%:\%boxartdest%"
+%unpack% "%boxartsrc%\2d.split" "%sd%:\"
+%unpack% "%boxartsrc%\3d.split" "%sd%:\"
+%unpack% "%boxartsrc%\disc.split" "%sd%:\"
+::%unpack% "%boxartsrc%\full.split" "%sd%:\"
 
 :: Gamecube Boxart
-::%unpack% "%boxartsrc%\gc.rar" "%sd%:\%boxartdest%"
+::%unpack% "%boxartsrc%\gc.rar" "%sd%:\"
 
 
 

@@ -119,10 +119,12 @@ echo Cleaning Up App Folders....
 %dfolder% "apps\hackmii_installer_v0.8"
 %dfolder% "apps\HomeBrew Channel Loader"
 %dfolder% "apps\MMM"
+%dfolder% "apps\MMM-alt"
 %dfolder% "apps\mymenuify"
 %dfolder% "apps\priiloader"
 %dfolder% "apps\Wad Manager"
 %dfolder% "apps\wiimc-channel-installer"
+%dfolder% "apps\yawmm"
 
 
 
